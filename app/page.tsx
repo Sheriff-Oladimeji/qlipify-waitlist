@@ -283,7 +283,7 @@ export default function LandingPage() {
               </Badge>
               <h2 className="text-3xl md:text-4xl font-bold">What Early Users Are Saying</h2>
               <p className="text-muted-foreground text-lg">
-                Join these happy learners who've transformed their YouTube experience
+                Join these happy learners who&apos;ve transformed their YouTube experience
               </p>
             </div>
 
@@ -300,8 +300,8 @@ export default function LandingPage() {
                     </div>
                   </div>
                   <p className="text-muted-foreground">
-                    "Qlipify saved me during finals week. I turned a 2-hour lecture into a 15-minute summary and ace'd
-                    my exam!"
+                    &quot;Qlipify saved me during finals week. I turned a 2-hour lecture into a 15-minute summary and ace&apos;d
+                    my exam!&quot;
                   </p>
                 </CardContent>
               </Card>
@@ -318,8 +318,8 @@ export default function LandingPage() {
                     </div>
                   </div>
                   <p className="text-muted-foreground">
-                    "The flashcards feature is a game-changer. I'm actually retaining what I learn from coding tutorials
-                    now."
+                    &quot;The flashcards feature is a game-changer. I&apos;m actually retaining what I learn from coding tutorials
+                    now.&quot;
                   </p>
                 </CardContent>
               </Card>
@@ -336,8 +336,8 @@ export default function LandingPage() {
                     </div>
                   </div>
                   <p className="text-muted-foreground">
-                    "I used to get distracted watching educational videos. Qlipify helps me focus on what matters and
-                    study effectively."
+                    &quot;I used to get distracted watching educational videos. Qlipify helps me focus on what matters and
+                    study effectively.&quot;
                   </p>
                 </CardContent>
               </Card>
